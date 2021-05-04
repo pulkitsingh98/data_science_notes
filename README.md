@@ -1,4 +1,4 @@
-# data_science_capstone_projects
+# data_science_visualisation
 ## cheatnotes ;)
 
 notes on data science and its visualisations..!!
